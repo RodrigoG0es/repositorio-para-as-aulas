@@ -1,0 +1,6 @@
+alguns comandos que eu anotei
+cd - abre um diretório
+cd .. - volta para o diretório anterior
+dir - lista diretorios e arquivos
+mkdir - cria um diretório
+del/rmdir - deleta arquivo/ diretório e arquivo
